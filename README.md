@@ -1,5 +1,4 @@
-# zatlas
+# zatlas-cs2
 
-https://fralonra.github.io/zatlas/
+Zatlas is a heightmap generator. It uses [ds-heightmap](https://github.com/fralonra/ds-heightmap) to generate map data and [jimp](https://github.com/oliver-moran/jimp) to render the map to image.
 
-Zatlas is an online heightmap generator. It uses [ds-heightmap](https://github.com/fralonra/ds-heightmap) to generate map data and [jimp](https://github.com/oliver-moran/jimp) to render the map to image.
